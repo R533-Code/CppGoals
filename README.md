@@ -1,1 +1,36 @@
-# CppGoals
+- [ ] First Session:
+  - [ ] What is C++? Why is C++? Where can I use it?
+  - [ ] Who is this course to?
+  - [ ] Our first Program "Hello World!"
+- [ ] Second Session:
+  - [ ] Variables: `int` `unsigned int` `float` `double` `char` `bool`
+  - [ ] About the binary counting system.
+  - [ ] Receiving input from user
+  - [ ] Writing a program that multiplies the input by another input
+- [ ] Third Session:
+  - [ ] `const char*` and `std::string`, escape characters
+  - [ ] What is the standard, is it helpful?
+  - [ ] Beginning control flows with `if` `else`
+  - [ ] Write a program that does the specified math operation on inputs
+- [ ] Fourth Session:
+  - [ ] Scopes and variables
+  - [ ] Control flow and `switch`
+  - [ ] How does the compiler work? What are optimizations?
+  - [ ] Using Visual Studio to its fullest with debugging
+  - [ ] Last session's program with switch, and modulo operator
+- [ ] Fifth Session:
+  - [ ] Loops: `while` and `for` (not range-for loops)
+  - [ ] `break` `continue`
+  - [ ] Generating patterns: `01234543210` `*\n**\n***\n****\n***\n**\n*\n`
+  - [ ] Exercise: getting user input as long as `std::cin` is `good`
+- [ ] Sixth Session:
+  - [ ] Functions, simplifying, abstracting and reusing code
+  - [ ] Linkage and function declaration
+  - [ ] What `#include` does and why it can cause errors
+  - [ ] Exercise: writing a function that removes spaces from the start and the end of the string
+- [ ] Seventh Session:
+  - [ ] Namespaces and their usefulness
+  - [ ] Separating to other files
+  - [ ] Why write function declarations?
+  - [ ] Arguments and copying
+  - [ ] Introduction to references `&` and their usefulness
